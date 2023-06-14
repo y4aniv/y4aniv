@@ -16,7 +16,6 @@ console.log(users.find(user => user.name === "y4aniv"))
     "Javascript",
     "React",
     "Next.js", 
-    "Angular",
     "Node.js",
     "Express", 
     "MongoDB", 
